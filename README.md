@@ -105,7 +105,7 @@ Provides insights into:
 
 ### Insurance Risk & Claims Analysis
 
-![Insurance Risk & Claims Dashboard](insurance-risk-claims.png)
+![INSURANCE RISK & CLAIMS ANALYSIS DASHBOARD](insurance-risk-claims.png)
 
 ---
 
